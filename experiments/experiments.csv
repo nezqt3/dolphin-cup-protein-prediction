@@ -1,0 +1,2 @@
+id,date,author,branch,commit,hypothesis,change,val_macro_f1,delta,macro_ap,precision,recall,runtime_min,status,artifacts,notes
+E000,2026-09-20,team,main,,Baseline,current TF-IDF + SGD pipeline,,,,,,,,BEST,,Initial reproducible baseline
